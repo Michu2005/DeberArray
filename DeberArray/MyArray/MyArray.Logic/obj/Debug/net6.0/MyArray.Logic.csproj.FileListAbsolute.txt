@@ -1,0 +1,12 @@
+C:\Users\michu\Source\Repos\MyArray\MyArray.Logic\bin\Debug\net6.0\MyArray.Logic.deps.json
+C:\Users\michu\Source\Repos\MyArray\MyArray.Logic\bin\Debug\net6.0\MyArray.Logic.dll
+C:\Users\michu\Source\Repos\MyArray\MyArray.Logic\bin\Debug\net6.0\MyArray.Logic.pdb
+C:\Users\michu\Source\Repos\MyArray\MyArray.Logic\obj\Debug\net6.0\MyArray.Logic.csproj.AssemblyReference.cache
+C:\Users\michu\Source\Repos\MyArray\MyArray.Logic\obj\Debug\net6.0\MyArray.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michu\Source\Repos\MyArray\MyArray.Logic\obj\Debug\net6.0\MyArray.Logic.AssemblyInfoInputs.cache
+C:\Users\michu\Source\Repos\MyArray\MyArray.Logic\obj\Debug\net6.0\MyArray.Logic.AssemblyInfo.cs
+C:\Users\michu\Source\Repos\MyArray\MyArray.Logic\obj\Debug\net6.0\MyArray.Logic.csproj.CoreCompileInputs.cache
+C:\Users\michu\Source\Repos\MyArray\MyArray.Logic\obj\Debug\net6.0\MyArray.Logic.dll
+C:\Users\michu\Source\Repos\MyArray\MyArray.Logic\obj\Debug\net6.0\refint\MyArray.Logic.dll
+C:\Users\michu\Source\Repos\MyArray\MyArray.Logic\obj\Debug\net6.0\MyArray.Logic.pdb
+C:\Users\michu\Source\Repos\MyArray\MyArray.Logic\obj\Debug\net6.0\ref\MyArray.Logic.dll
